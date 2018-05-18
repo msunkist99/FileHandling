@@ -1,0 +1,4 @@
+Student name:  Mary
+Age:  55
+City:  Mascoutah
+Subject:  C#

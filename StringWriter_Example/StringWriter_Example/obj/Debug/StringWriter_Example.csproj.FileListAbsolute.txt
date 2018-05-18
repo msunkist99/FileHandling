@@ -1,0 +1,7 @@
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\StringWriter_Example\StringWriter_Example\bin\Debug\StringWriter_Example.exe.config
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\StringWriter_Example\StringWriter_Example\bin\Debug\StringWriter_Example.exe
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\StringWriter_Example\StringWriter_Example\bin\Debug\StringWriter_Example.pdb
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\StringWriter_Example\StringWriter_Example\obj\Debug\StringWriter_Example.csprojResolveAssemblyReference.cache
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\StringWriter_Example\StringWriter_Example\obj\Debug\StringWriter_Example.csproj.CoreCompileInputs.cache
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\StringWriter_Example\StringWriter_Example\obj\Debug\StringWriter_Example.exe
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\StringWriter_Example\StringWriter_Example\obj\Debug\StringWriter_Example.pdb

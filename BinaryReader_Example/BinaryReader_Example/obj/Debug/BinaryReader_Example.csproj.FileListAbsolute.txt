@@ -1,0 +1,7 @@
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\BinaryReader_Example\BinaryReader_Example\bin\Debug\BinaryReader_Example.exe.config
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\BinaryReader_Example\BinaryReader_Example\bin\Debug\BinaryReader_Example.exe
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\BinaryReader_Example\BinaryReader_Example\bin\Debug\BinaryReader_Example.pdb
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\BinaryReader_Example\BinaryReader_Example\obj\Debug\BinaryReader_Example.csprojResolveAssemblyReference.cache
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\BinaryReader_Example\BinaryReader_Example\obj\Debug\BinaryReader_Example.csproj.CoreCompileInputs.cache
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\BinaryReader_Example\BinaryReader_Example\obj\Debug\BinaryReader_Example.exe
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\BinaryReader_Example\BinaryReader_Example\obj\Debug\BinaryReader_Example.pdb

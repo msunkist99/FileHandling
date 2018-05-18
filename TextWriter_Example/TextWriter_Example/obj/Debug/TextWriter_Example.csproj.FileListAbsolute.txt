@@ -1,0 +1,6 @@
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\TextWriter_Example\TextWriter_Example\bin\Debug\TextWriter_Example.exe.config
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\TextWriter_Example\TextWriter_Example\bin\Debug\TextWriter_Example.exe
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\TextWriter_Example\TextWriter_Example\bin\Debug\TextWriter_Example.pdb
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\TextWriter_Example\TextWriter_Example\obj\Debug\TextWriter_Example.csproj.CoreCompileInputs.cache
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\TextWriter_Example\TextWriter_Example\obj\Debug\TextWriter_Example.exe
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\TextWriter_Example\TextWriter_Example\obj\Debug\TextWriter_Example.pdb

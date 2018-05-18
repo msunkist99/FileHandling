@@ -1,0 +1,6 @@
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\StringReader_Example\StringReader_Example\bin\Debug\StringReader_Example.exe.config
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\StringReader_Example\StringReader_Example\bin\Debug\StringReader_Example.exe
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\StringReader_Example\StringReader_Example\bin\Debug\StringReader_Example.pdb
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\StringReader_Example\StringReader_Example\obj\Debug\StringReader_Example.csproj.CoreCompileInputs.cache
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\StringReader_Example\StringReader_Example\obj\Debug\StringReader_Example.exe
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\StringReader_Example\StringReader_Example\obj\Debug\StringReader_Example.pdb

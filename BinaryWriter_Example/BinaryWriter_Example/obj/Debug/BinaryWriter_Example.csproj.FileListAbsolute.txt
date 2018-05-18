@@ -1,0 +1,6 @@
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\BinaryWriter_Example\BinaryWriter_Example\bin\Debug\BinaryWriter_Example.exe.config
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\BinaryWriter_Example\BinaryWriter_Example\bin\Debug\BinaryWriter_Example.exe
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\BinaryWriter_Example\BinaryWriter_Example\bin\Debug\BinaryWriter_Example.pdb
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\BinaryWriter_Example\BinaryWriter_Example\obj\Debug\BinaryWriter_Example.csproj.CoreCompileInputs.cache
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\BinaryWriter_Example\BinaryWriter_Example\obj\Debug\BinaryWriter_Example.exe
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\BinaryWriter_Example\BinaryWriter_Example\obj\Debug\BinaryWriter_Example.pdb

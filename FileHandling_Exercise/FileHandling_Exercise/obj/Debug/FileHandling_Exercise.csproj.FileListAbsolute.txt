@@ -1,0 +1,7 @@
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\FileHandling_Exercise\FileHandling_Exercise\bin\Debug\FileHandling_Exercise.exe.config
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\FileHandling_Exercise\FileHandling_Exercise\bin\Debug\FileHandling_Exercise.exe
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\FileHandling_Exercise\FileHandling_Exercise\bin\Debug\FileHandling_Exercise.pdb
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\FileHandling_Exercise\FileHandling_Exercise\obj\Debug\FileHandling_Exercise.csprojResolveAssemblyReference.cache
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\FileHandling_Exercise\FileHandling_Exercise\obj\Debug\FileHandling_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\FileHandling_Exercise\FileHandling_Exercise\obj\Debug\FileHandling_Exercise.exe
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\FileHandling_Exercise\FileHandling_Exercise\obj\Debug\FileHandling_Exercise.pdb

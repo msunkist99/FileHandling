@@ -1,0 +1,6 @@
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\DirectoryInfo_Example\DirectoryInfo_Example\obj\Debug\DirectoryInfo_Example.csproj.CoreCompileInputs.cache
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\DirectoryInfo_Example\DirectoryInfo_Example\bin\Debug\DirectoryInfo_Example.exe.config
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\DirectoryInfo_Example\DirectoryInfo_Example\bin\Debug\DirectoryInfo_Example.exe
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\DirectoryInfo_Example\DirectoryInfo_Example\bin\Debug\DirectoryInfo_Example.pdb
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\DirectoryInfo_Example\DirectoryInfo_Example\obj\Debug\DirectoryInfo_Example.exe
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\DirectoryInfo_Example\DirectoryInfo_Example\obj\Debug\DirectoryInfo_Example.pdb

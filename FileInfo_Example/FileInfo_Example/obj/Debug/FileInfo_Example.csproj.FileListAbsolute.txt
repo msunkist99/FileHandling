@@ -1,0 +1,7 @@
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\FileInfo_Example\FileInfo_Example\bin\Debug\FileInfo_Example.exe.config
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\FileInfo_Example\FileInfo_Example\bin\Debug\FileInfo_Example.exe
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\FileInfo_Example\FileInfo_Example\bin\Debug\FileInfo_Example.pdb
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\FileInfo_Example\FileInfo_Example\obj\Debug\FileInfo_Example.csprojResolveAssemblyReference.cache
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\FileInfo_Example\FileInfo_Example\obj\Debug\FileInfo_Example.csproj.CoreCompileInputs.cache
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\FileInfo_Example\FileInfo_Example\obj\Debug\FileInfo_Example.exe
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\FileInfo_Example\FileInfo_Example\obj\Debug\FileInfo_Example.pdb

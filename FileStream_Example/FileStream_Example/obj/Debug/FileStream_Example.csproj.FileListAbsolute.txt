@@ -1,0 +1,7 @@
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\FileStream_Example\FileStream_Example\bin\Debug\FileStream_Example.exe.config
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\FileStream_Example\FileStream_Example\bin\Debug\FileStream_Example.exe
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\FileStream_Example\FileStream_Example\bin\Debug\FileStream_Example.pdb
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\FileStream_Example\FileStream_Example\obj\Debug\FileStream_Example.csprojResolveAssemblyReference.cache
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\FileStream_Example\FileStream_Example\obj\Debug\FileStream_Example.csproj.CoreCompileInputs.cache
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\FileStream_Example\FileStream_Example\obj\Debug\FileStream_Example.exe
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\FileStream_Example\FileStream_Example\obj\Debug\FileStream_Example.pdb

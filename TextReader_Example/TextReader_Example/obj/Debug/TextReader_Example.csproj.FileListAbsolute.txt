@@ -1,0 +1,6 @@
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\TextReader_Example\TextReader_Example\bin\Debug\TextReader_Example.exe.config
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\TextReader_Example\TextReader_Example\bin\Debug\TextReader_Example.exe
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\TextReader_Example\TextReader_Example\bin\Debug\TextReader_Example.pdb
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\TextReader_Example\TextReader_Example\obj\Debug\TextReader_Example.csproj.CoreCompileInputs.cache
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\TextReader_Example\TextReader_Example\obj\Debug\TextReader_Example.exe
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\TextReader_Example\TextReader_Example\obj\Debug\TextReader_Example.pdb

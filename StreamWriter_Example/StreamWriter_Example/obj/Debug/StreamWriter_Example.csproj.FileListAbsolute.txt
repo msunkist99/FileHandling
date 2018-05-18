@@ -1,0 +1,6 @@
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\StreamWriter_Example\StreamWriter_Example\bin\Debug\StreamWriter_Example.exe.config
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\StreamWriter_Example\StreamWriter_Example\bin\Debug\StreamWriter_Example.exe
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\StreamWriter_Example\StreamWriter_Example\bin\Debug\StreamWriter_Example.pdb
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\StreamWriter_Example\StreamWriter_Example\obj\Debug\StreamWriter_Example.csproj.CoreCompileInputs.cache
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\StreamWriter_Example\StreamWriter_Example\obj\Debug\StreamWriter_Example.exe
+C:\Users\msunk\Documents\Visual Studio 2017\CoderGirlWinter2018\FileHandling\StreamWriter_Example\StreamWriter_Example\obj\Debug\StreamWriter_Example.pdb
